@@ -36,6 +36,7 @@
 
 -(IBAction)popViewClick:(id)sender
 {
+    //显示提醒Alertview
     [self.popView show];
 }
 
